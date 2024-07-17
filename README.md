@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a 23 year old Software Developer staying in Indore, India.
+- 🤔 &nbsp; I'm a 24 year old Software Developer working in Bengaluru, India.
 - 🎓 &nbsp; I have completed integrated MCA, a five year degree course.
 - 🌱 &nbsp; My interests include solving some real life problem via web & mobile apps and solving programming problems.
 - 🤝 &nbsp; I am always open and excited to learn and work with like minded people.
